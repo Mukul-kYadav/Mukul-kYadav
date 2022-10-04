@@ -10,7 +10,7 @@ I am an Engineering Student learning JAVA and DSA. I have also learnt Frontend d
 *   🖥️  See my portfolio at [Mukul-kYadav](http://mukul-kyadav.github.io/my-portfolio)
 *   ✉️  You can contact me at [ymukul618@gmail.com](mailto:ymukul618@gmail.com)
 *   🧠  I'm learning JAVA
-*   ⚡  "Never Stop Learning"
+*   ⚡  "He has the right to criticize who has the heart to help"
 
 ### Skills
 
