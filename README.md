@@ -41,4 +41,4 @@ You can check my [Data-Camp profile](https://app.datacamp.com/profile/Mukul-kYad
 </p>
 
 <p>Top Repositories</p>
-<div width="100%" align="center"><a href="https://github.com/Mukul-kYadav/AI-Voice-Assistant" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mukul-kyadav&repo=my-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/Mukul-kYadav/AI-Voice-Assistant" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mukul-kyadav&repo=AI-Voice-Assistant&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
