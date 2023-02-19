@@ -20,7 +20,6 @@ You can check my [Data-Camp profile](https://app.datacamp.com/profile/Mukul-kYad
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 </p>
                     
 ### Socials
@@ -42,4 +41,4 @@ You can check my [Data-Camp profile](https://app.datacamp.com/profile/Mukul-kYad
 </p>
 
 <p>Top Repositories</p>
-<div width="100%" align="center"><a href="https://github.com/mukul-kyadav/my-portfolio" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mukul-kyadav&repo=my-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
+<div width="100%" align="center"><a href="https://github.com/Mukul-kYadav/AI-Voice-Assistant" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mukul-kyadav&repo=my-portfolio&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a>
