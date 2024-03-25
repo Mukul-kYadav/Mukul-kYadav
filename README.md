@@ -8,7 +8,6 @@ I am an Engineering Student learning Python and Data Science. You can check my g
 You can check my [Data-Camp profile](https://app.datacamp.com/profile/Mukul-kYadav)
 
 *   🌍  I'm based in Uttar Pradesh, India
-*   🖥️  See my portfolio at [Mukul-kYadav](http://mukul-kyadav.github.io/my-portfolio)
 *   ✉️  You can contact me at [ymukul618@gmail.com](mailto:ymukul618@gmail.com)
 *   🧠  I'm learning Python & Data Science
 *   ⚡  "He has right to criticize who has heart to help"
